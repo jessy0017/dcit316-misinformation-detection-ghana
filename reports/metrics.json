@@ -1,0 +1,22 @@
+{
+  "baseline_with_artifact": {
+    "accuracy": 0.9867736830205742,
+    "macro_f1": 0.9867648133566456
+  },
+  "baseline_artifact_stripped": {
+    "accuracy": 0.9799909563644585,
+    "macro_f1": 0.9799780031201866
+  },
+  "embedding_style_svd": {
+    "accuracy": 0.9655211394980783,
+    "macro_f1": 0.9655029726376789,
+    "svd_explained_variance": 0.20157525542073326
+  },
+  "disagreement_analysis": {
+    "total_disagreements": 156,
+    "disagreement_rate": 0.01763508930590097,
+    "baseline_correct_on_disagreement": 142,
+    "embedding_correct_on_disagreement": 14,
+    "disagreements_with_caps_markers": 88
+  }
+}

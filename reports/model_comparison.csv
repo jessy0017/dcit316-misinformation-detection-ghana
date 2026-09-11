@@ -1,0 +1,7 @@
+Model,Accuracy,Macro F1
+"TF-IDF Baseline
+(with artifact)",0.9867736830205742,0.9867648133566456
+"TF-IDF Baseline
+(artifact stripped)",0.9799909563644585,0.9799780031201866
+"Embedding-style
+(TF-IDF+SVD)",0.9655211394980783,0.9655029726376789
