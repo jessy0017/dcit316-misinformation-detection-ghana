@@ -35,7 +35,7 @@ complete numerical results.
 │ ├── model_comparison.csv
 │ └── disagreement_cases.csv
 ├── paper/
-│ └── final_paper.docx # Full research paper
+│ └── final_paper.pdf # Full research paper (PDF)
 ├── data_card.md
 ├── model_card.md
 ├── ethics_statement.md
