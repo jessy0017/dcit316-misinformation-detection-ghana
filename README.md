@@ -39,6 +39,9 @@ complete numerical results.
 ├── data_card.md
 ├── model_card.md
 ├── ethics_statement.md
+├── literature_matrix.md
+├── failure_log.md
+├── reproducibility_checklist.md
 ├── ai_use_disclosure.md
 ├── requirements.txt
 └── README.md
